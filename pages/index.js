@@ -11,7 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="YES" />
+        <Header title="Is Boris Johnson still Prime Minister?" />
+        <p className="yesno">
+          YES
+        </p>
         <p className="description">
           Unfortunately, the lying liar persists.
         </p>
