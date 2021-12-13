@@ -33,3 +33,12 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+yesno {
+  background: #fafafa;
+  border-radius: 5px;
+  padding: 0.75rem;
+  font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
+  font-size: 40px;
+}
+  
