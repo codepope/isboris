@@ -13,10 +13,10 @@ export default function Home() {
       <main>
         <Header title="Is Boris Johnson still Prime Minister?" />
         <p className="yesno">
-          YES
+          Yes
         </p>
         <p className="description">
-          Unfortunately, the lying liar persists.
+          But it's pretty tenuous
         </p>
       </main>
 
