@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        Made with the hope that he won't be Prime Minister soon
+        Made with the hope that he won't be Prime Minister very very very soon
       </footer>
     </>
   )

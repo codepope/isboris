@@ -16,7 +16,7 @@ export default function Home() {
           Yes
         </p>
         <p className="description">
-          But it's pretty tenuous
+          It's so close though. So very very close.
         </p>
       </main>
 
