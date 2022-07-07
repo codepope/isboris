@@ -13,10 +13,10 @@ export default function Home() {
       <main>
         <Header title="Is Boris Johnson still Prime Minister?" />
         <p className="yesno">
-          Yes
+          Yes but...
         </p>
         <p className="description">
-          It's so close though. So very very close.
+          But he's resigned as Tory party leader.
         </p>
       </main>
 
