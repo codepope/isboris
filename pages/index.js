@@ -16,8 +16,8 @@ export default function Home() {
           Yes but...
         </p>
         <p className="description">
-          But he's resigned as Tory party leader.
-        </p>
+          ...he's resigned as Tory party leader.</p>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/lKrLBPmRsrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </main>
 
       <Footer />
