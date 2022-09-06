@@ -4,7 +4,8 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        He's going! Now for the next Tory muppet.
+        It will be worse, oh so much worse.<br/><br/>
+        I thought updating this page would be cathartic but no....
       </footer>
     </>
   )
